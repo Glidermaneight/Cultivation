@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+canvas{
+  background-color: #000061;
+}
+@font-face{
+  font-family: 'PixeloidSans';
+  src: url("PixeloidSans.ttf");
+}

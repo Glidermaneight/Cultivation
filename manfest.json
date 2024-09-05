@@ -1,0 +1,21 @@
+{
+  "name": "Cultivation",
+  "short_name": "Cultivation",
+  "description": "A game where your goal is to grow a colony of algae",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000061",
+  "theme_color": "#000061",
+  "icons": [
+    {
+      "src": "Algae192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Sun512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
